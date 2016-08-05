@@ -1,0 +1,2 @@
+http://www.runoob.com/linux/linux-shell.html
+http://c.biancheng.net/cpp/view/6995.html
